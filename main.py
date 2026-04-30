@@ -1,2 +1,5 @@
-import os,sys 
-print("hello ruff") 
+def hello():
+    print("hello ruff")
+
+
+hello()

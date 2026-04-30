@@ -1,4 +1,8 @@
-import os, sys, json, time 
-x=10 
-y=20 
-print(x) 
+def main():
+    x = 10
+    y = 20
+    print(x + y)
+
+
+if __name__ == "__main__":
+    main()
