@@ -1,4 +1,5 @@
-def hello(): 
-    print("hello ruff") 
- 
-hello() 
+def hello():
+    print("hello ruff")
+
+
+hello()
