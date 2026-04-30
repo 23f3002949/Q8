@@ -1,4 +1,4 @@
-import os, sys, json, time 
-x=10 
-y=20 
+import os, sys, json 
+x = 10 
+y = 20 
 print(x) 
